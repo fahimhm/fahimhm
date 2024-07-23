@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimhm&show_icons=true&locale=en&layout=compact" alt="fahimhm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahimhm&show_icons=true&locale=en" alt="fahimhm" /></p>
+
+[![fahimhm's GitHub | Stats](https://stats.quira.sh/fahimhm/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=fahimhm)
